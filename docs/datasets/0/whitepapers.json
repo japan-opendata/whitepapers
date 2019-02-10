@@ -1,0 +1,50 @@
+{
+    "joho": {
+        "name": "情報通信白書",
+        "publisher": "http://www.soumu.go.jp/",
+        "uri": "http://www.soumu.go.jp/johotsusintokei/whitepaper/index.html",
+        "otherlang": {
+            "en": {
+                "name": "WHITE PAPER Information and Communications in Japan"
+            }
+        },
+        "publications": [
+            {
+                "date": "2018",
+                "uri": "http://www.soumu.go.jp/johotsusintokei/whitepaper/h30.html",
+                "copyright": {
+                    "license": "cc-by-2.1",
+                    "info": "http://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h30/pdf/h30riyou.pdf"
+                }
+            },
+            {
+                "date": "2017",
+                "uri": "http://www.soumu.go.jp/johotsusintokei/whitepaper/h29.html",
+                "copyright": {
+                    "license": "cc-by-2.1",
+                    "info": "http://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h29/pdf/h29riyou.pdf"
+                }
+            }
+        ]
+    },
+    "tsusho": {
+        "name": "通商白書",
+        "publisher": "http://www.meti.go.jp/",
+        "uri": "http://www.meti.go.jp/report/whitepaper/index_tuhaku.html",
+        "otherlang": {
+            "en": {
+                "name": "White Paper on International Economy and Trade"
+            }
+        },
+        "publications": [
+            {
+                "date": "2018",
+                "uri": "http://www.meti.go.jp/report/tsuhaku2018/index.html",
+                "copyright": {
+                    "license": "cc-by-4.0",
+                    "info": "http://www.meti.go.jp/main/rules.html"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+---
+title: 日本の白書
+layout: default.njk
+model: whitepapers
+---
+
+# 日本の白書
+
+JSONデータセット (v0)
+:   <https://japan-opendata.github.io/whitepapers/datasets/0/whitepapers.json>
+
+GitHub
+:   <https://github.com/japan-opendata/whitepapers/>
+
+白書について
+:   * <https://www.e-gov.go.jp/publication/white_papers.html>
+    * <https://www.kantei.go.jp/jp/hakusyo/index.html>
+
+目次
+:   ${toc}
+
+{% for id, series in model %}
+## {{ series.name }}
+
+ページ
+:   <{{ series.uri }}>
+
+英語名称
+:   {{ series.otherlang.en.name }}
+
+発行
+:   <{{ series.publisher }}>
+
+{% for item in series.publications %}
+
+### {{ item.date }}
+
+ページ
+:   <{{ item.uri }}>
+
+```json
+{{ item | dump(2) | safe }}
+```
+
+{% endfor %}
+
+{% endfor %}
