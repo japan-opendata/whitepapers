@@ -10,7 +10,7 @@
         },
         "publications": [
             {
-                "date": "2018",
+                "year": "2018",
                 "uri": "http://www.soumu.go.jp/johotsusintokei/whitepaper/h30.html",
                 "copyright": {
                     "license": "cc-by-2.1",
@@ -18,7 +18,7 @@
                 }
             },
             {
-                "date": "2017",
+                "year": "2017",
                 "uri": "http://www.soumu.go.jp/johotsusintokei/whitepaper/h29.html",
                 "copyright": {
                     "license": "cc-by-2.1",
@@ -38,7 +38,7 @@
         },
         "publications": [
             {
-                "date": "2018",
+                "year": "2018",
                 "uri": "http://www.meti.go.jp/report/tsuhaku2018/index.html",
                 "copyright": {
                     "license": "cc-by-4.0",
