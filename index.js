@@ -13,7 +13,7 @@ Metalsmith(__dirname)
   .destination('./docs')
   .clean(true)
   .use(models({
-    "directory": "./src/datasets/0"
+    "directory": "./src/api/0"
   }))
   .use(inplace({
     "engineOptions": {
