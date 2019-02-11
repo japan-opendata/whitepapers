@@ -46,5 +46,173 @@
                 }
             }
         ]
+    },
+    "keisatsu": {
+        "name": "警察白書",
+        "publisher": "https://www.npa.go.jp/",
+        "uri": "https://www.npa.go.jp/publications/whitepaper/index_keisatsu.html",
+        "otherlang": {
+            "en": {
+                "name": "WHITE PAPER on POLICE"
+            }
+        },
+        "publications": [
+            {
+                "year": "2018",
+                "uri": "https://www.npa.go.jp/hakusyo/h30/index.html",
+                "copyright": {
+                    "license": "cc-by-4.0",
+                    "info": "https://www.npa.go.jp/rules/index.html"
+                }
+            },
+            {
+                "year": "2017",
+                "uri": "https://www.npa.go.jp/hakusyo/h30/index.html",
+                "copyright": {
+                    "license": "cc-by-4.0",
+                    "info": "https://www.npa.go.jp/rules/index.html"
+                }
+            }
+        ]
+    },
+    "shobo": {
+        "name": "消防白書",
+        "publisher": "https://www.npa.go.jp/",
+        "uri": "http://www.fdma.go.jp/concern/publication/",
+        "otherlang": {
+            "en": {
+                "name": null
+            }
+        },
+        "publications": [
+            {
+                "year": "2018",
+                "uri": "http://www.fdma.go.jp/html/hakusho/h30/h30/index.html",
+                "copyright": {
+                    "license": "cc-by-4.0",
+                    "info": "http://www.fdma.go.jp/neuter/info/copyright.html"
+                }
+            },
+            {
+                "year": "2017",
+                "uri": "http://www.fdma.go.jp/html/hakusho/h29/h29/index.html",
+                "copyright": {
+                    "license": "cc-by-4.0",
+                    "info": "http://www.fdma.go.jp/neuter/info/copyright.html"
+                }
+            }
+        ]
+    },
+    "hanzai": {
+        "name": "犯罪白書",
+        "publisher": "http://www.moj.go.jp/",
+        "uri": "http://www.moj.go.jp/housouken/houso_hakusho2.html",
+        "otherlang": {
+            "en": {
+                "name": "White paper on crime"
+            }
+        },
+        "publications": [
+            {
+                "year": "2018",
+                "uri": "http://hakusyo1.moj.go.jp/jp/65/nfm/mokuji.html",
+                "copyright": {
+                    "license": "cc-by-4.0",
+                    "info": "http://www.moj.go.jp/hisho06_00280.html"
+                }
+            },
+            {
+                "year": "2017",
+                "uri": "http://hakusyo1.moj.go.jp/jp/64/nfm/mokuji.html",
+                "copyright": {
+                    "license": "cc-by-4.0",
+                    "info": "http://www.moj.go.jp/hisho06_00280.html"
+                }
+            }
+        ]
+    },
+    "gaiko": {
+        "name": "外交青書",
+        "publisher": "https://www.mofa.go.jp/",
+        "uri": "https://www.mofa.go.jp/mofaj/gaiko/bluebook/index.html",
+        "otherlang": {
+            "en": {
+                "name": "Diplomatic Bluebook"
+            }
+        },
+        "publications": [
+            {
+                "year": "2018",
+                "uri": "https://www.mofa.go.jp/mofaj/gaiko/bluebook/2018/html/index.html",
+                "copyright": {
+                    "license": "cc-by-4.0",
+                    "info": "https://www.mofa.go.jp/mofaj/annai/legalmatters/index.html"
+                }
+            },
+            {
+                "year": "2017",
+                "uri": "https://www.mofa.go.jp/mofaj/gaiko/bluebook/2017/html/index.html",
+                "copyright": {
+                    "license": "cc-by-4.0",
+                    "info": "https://www.mofa.go.jp/mofaj/annai/legalmatters/index.html"
+                }
+            }
+        ]
+    },
+    "boei": {
+        "name": "防衛白書",
+        "publisher": "http://www.mod.go.jp/",
+        "uri": "http://www.clearing.mod.go.jp/hakusho_web/",
+        "otherlang": {
+            "en": {
+                "name": "DEFENSE OF JAPAN"
+            }
+        },
+        "publications": [
+            {
+                "year": "2018",
+                "uri": "http://www.clearing.mod.go.jp/hakusho_data/2018/w2018_00.html",
+                "copyright": {
+                    "license": "cc-by-4.0",
+                    "info": "http://www.mod.go.jp/j/terms/contents.html"
+                }
+            },
+            {
+                "year": "2017",
+                "uri": "http://www.clearing.mod.go.jp/hakusho_data/2017/w2017_00.html",
+                "copyright": {
+                    "license": "cc-by-4.0",
+                    "info": "http://www.mod.go.jp/j/terms/contents.html"
+                }
+            }
+        ]
+    },
+    "korei": {
+        "name": "高齢社会白書",
+        "publisher": "https://www.cao.go.jp/",
+        "uri": "https://www8.cao.go.jp/kourei/whitepaper/index-w.html",
+        "otherlang": {
+            "en": {
+                "name": "Annual Report on the Aging Society"
+            }
+        },
+        "publications": [
+            {
+                "year": "2018",
+                "uri": "https://www8.cao.go.jp/kourei/whitepaper/w-2018/html/zenbun/index.html",
+                "copyright": {
+                    "license": "cc-by-4.0",
+                    "info": "https://www.cao.go.jp/notice/rule.html"
+                }
+            },
+            {
+                "year": "2017",
+                "uri": "https://www8.cao.go.jp/kourei/whitepaper/w-2017/html/zenbun/index.html",
+                "copyright": {
+                    "license": "cc-by-4.0",
+                    "info": "https://www.cao.go.jp/notice/rule.html"
+                }
+            }
+        ]
     }
 }
