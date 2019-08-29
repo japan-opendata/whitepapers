@@ -9,7 +9,7 @@
     "jstransformer-nunjucks": "^1.0.0",
     "markdown-it-anchor": "^5.2.4",
     "markdown-it-deflist": "^2.0.3",
-    "markdown-it-toc-done-right": "^4.0.1",
+    "markdown-it-toc-done-right": "^4.0.2",
     "metalsmith": "^2.3.0",
     "metalsmith-in-place": "^4.4.0",
     "metalsmith-layouts": "^2.3.1",
