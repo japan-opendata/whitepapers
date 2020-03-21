@@ -7,11 +7,11 @@
   "dependencies": {
     "jstransformer-markdown-it": "^2.1.0",
     "jstransformer-nunjucks": "^1.0.0",
-    "markdown-it-anchor": "^5.2.4",
+    "markdown-it-anchor": "^5.2.5",
     "markdown-it-deflist": "^2.0.3",
-    "markdown-it-toc-done-right": "^4.0.2",
+    "markdown-it-toc-done-right": "^4.1.0",
     "metalsmith": "^2.3.0",
-    "metalsmith-in-place": "^4.4.0",
+    "metalsmith-in-place": "^4.4.1",
     "metalsmith-layouts": "^2.3.1",
     "metalsmith-models": "0.0.3"
   }
